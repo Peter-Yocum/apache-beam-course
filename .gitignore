@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # Project data files
-/data/dept_data.txt
+/data/*
 
 # IDE files
 .idea
